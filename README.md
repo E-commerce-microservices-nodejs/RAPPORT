@@ -20,6 +20,37 @@ Voir la figure ci-après ainsi que l’annexe (à la fin du document) pour avoir
 fonctionnalités proposées par cette application ainsi que la communication entre ces
 microservices.
 
+# Travail à réaliser
+
+1. Développer les services backend de l’application Mcommerce en utilisant les
+technologies : Node.js / Express ainsi qu’une base de données MongoDB pour le
+microservice « produit ».
+NB : communication synchrone entre « paiement » et « commande » via une API REST.
+2. Développer le frontend de l’application Mcommerce sous forme de SPA (Single Page
+Application) avec la librairie React.
+NB : communication via API REST entre le frontend et le backend.
+3. Créer les fichiers Dockerfile nécessaire pour l’ensemble des services + frontend de
+cette application.
+4. Automatiser le build, scans de sécurité, packaging et publication de l’image Docker de
+chaque service + frontend avec GitLab CI.
+5. Créer un répertoire GitLab contenant les fichiers YAML de Kubernetes nécessaires
+pour déployer cette application dans un cluster Kubernetes en local.
+6. Utiliser l’outil ArgoCD pour détecter les changements au niveau du repo GitLab
+contenant les fichiers YAML de K8s afin d’étendre le CI pipeline de GitLab en déployant
+chaque microservice mis-à-jour dans le cluster local de Kubernetes.
+7. Utiliser le service mesh Istio pour assurer :
+a. Stratégie de déploiement (Canary deploys)
+b. Observabilité (Visualization, Monitoring, Logging, Tracing)
+c. Communication sécurisée entre les services (via mTLS)
+d. Circuit Breaking
+8. Ajouter un service « email » responsable de l’envoie d’un email de confirmation de
+paiement. (Penser à une communication asynchrone entre « paiement » et « email »
+via le message broker RabbitMQ).
+9. Implémenter la fonctionnalité d’authentification (backend et frontend) pour payer une
+commande.
+10. Implémenter une API Gateway pour le routage du trafic entre frontend et backend.
+
+
 
 # Architecture de l'application
 
@@ -32,3 +63,5 @@ Ceci est le premier paragraphe. Vous pouvez y ajouter du texte ou des informatio
 Voici le deuxième paragraphe avec ses propres détails ou contenus. Vous pouvez personnaliser cela en fonction de vos besoins.
 
 ![Architecture de l'Application](table_de_matieres.png)
+
+# Le rapport existe en dessus dans le repository
