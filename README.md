@@ -67,4 +67,4 @@ Le plan de notre réalisation du projet:
 
 # Liens des repos des services backend et de front end
 
-- [Autre Référentiel](https://github.com/orgs/E-commerce-microservices-nodejs/repositories)
+- [lien vers les repos du code](https://github.com/orgs/E-commerce-microservices-nodejs/repositories)
