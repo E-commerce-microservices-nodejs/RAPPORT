@@ -25,10 +25,10 @@ microservices.
 
 Ceci est le premier paragraphe. Vous pouvez y ajouter du texte ou des informations supplémentaires.
 
-![Image 1](architecture.jpg)
+![Architecture de l'Application](architecture%20de%20l'app.png)
 
 # Tables des matieres
 
 Voici le deuxième paragraphe avec ses propres détails ou contenus. Vous pouvez personnaliser cela en fonction de vos besoins.
 
-![Image 2](chemin/vers/image2.jpg)
+![Architecture de l'Application](chemin/vers/architecture%20de%20l'app.png)
