@@ -65,6 +65,8 @@ Le plan de notre réalisation du projet:
 
 # Le rapport existe en dessus dans le repository
 
+[Rapport PDF](Presentation_du_rapport_de_project.pdf)
+
 # Liens des repos des services backend et de front end
 
 - [lien vers les repos du code](https://github.com/orgs/E-commerce-microservices-nodejs/repositories)
