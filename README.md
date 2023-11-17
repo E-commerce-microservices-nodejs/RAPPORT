@@ -60,7 +60,7 @@ L'architecture qu'on a proposé :
 
 # Tables des matieres
 
-Le plan de notre réalisation du projet
+Le plan de notre réalisation du projet:
 
 ![Architecture de l'Application](table_de_matieres.png)
 
