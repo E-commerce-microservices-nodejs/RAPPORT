@@ -51,7 +51,6 @@ commande.
 10. Implémenter une API Gateway pour le routage du trafic entre frontend et backend.
 
 
-
 # Architecture de l'application
 
 L'architecture qu'on a proposé :
@@ -65,3 +64,7 @@ Le plan de notre réalisation du projet:
 ![Architecture de l'Application](table_de_matieres.png)
 
 # Le rapport existe en dessus dans le repository
+
+# Liens des repos des services backend et de front end
+
+- [Autre Référentiel](https://github.com/orgs/E-commerce-microservices-nodejs/repositories)
