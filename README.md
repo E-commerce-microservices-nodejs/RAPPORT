@@ -54,13 +54,13 @@ commande.
 
 # Architecture de l'application
 
-Ceci est le premier paragraphe. Vous pouvez y ajouter du texte ou des informations supplémentaires.
+L'architecture qu'on a proposé :
 
 ![Architecture de l'Application](architecture_de_l_app.png)
 
 # Tables des matieres
 
-Voici le deuxième paragraphe avec ses propres détails ou contenus. Vous pouvez personnaliser cela en fonction de vos besoins.
+Le plan de notre réalisation du projet
 
 ![Architecture de l'Application](table_de_matieres.png)
 
