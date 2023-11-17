@@ -31,4 +31,4 @@ Ceci est le premier paragraphe. Vous pouvez y ajouter du texte ou des informatio
 
 Voici le deuxième paragraphe avec ses propres détails ou contenus. Vous pouvez personnaliser cela en fonction de vos besoins.
 
-![Architecture de l'Application](table_des_matieres.png)
+![Architecture de l'Application](table_de_matieres.png)
